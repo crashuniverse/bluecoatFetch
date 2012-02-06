@@ -1,0 +1,28 @@
+﻿*{
+				font-family:"Segoe UI";
+				font-size:14px;
+}
+
+a{
+				text-decoration:none;
+}
+
+a:visited{
+				text-decoration:none;
+				color:black;
+}
+
+a:hover{
+				text-decoration:none;
+				color:#DF7000;
+}
+
+a:active{
+				text-decoration:none;
+				color:black;
+}
+
+.impItems{
+				background-color:#FFFFA4;
+        
+}
